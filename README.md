@@ -1,15 +1,13 @@
 # Exam Marks Analysis from Images
 
-This project is designed to extract exam marks from images of handwritten exam sheets and perform data analysis on the marks.
+This project is designed to  perform data analysis on the marks.
 
 ## Features
-- OCR-based Text Extraction using Tesseract
 - Data organization using pandas
 - Data visualization with matplotlib
 
 ## Technologies Used
 - Python 3.x
-- Tesseract OCR
 - Pillow
 - pandas
 - matplotlib
